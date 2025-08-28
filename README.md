@@ -1,4 +1,7 @@
 # BMP 이미지 그레이스케일 변환 소프트웨어
+
+<img width="320" height="320" alt="brainct_001" src="https://github.com/user-attachments/assets/60efb670-acae-411a-8f13-886e434d0e8d" />
+
 ### 문서 관리 정보
 - 문서 ID: BMP-DO178C-001
 - 버전 & 날짜 : 1.0 / 2025년 8월 28일
